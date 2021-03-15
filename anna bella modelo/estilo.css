@@ -1,0 +1,40 @@
+
+
+body {
+    background: url('imagens/fundo.png');
+   
+}
+#menu {
+    
+    background: rgb(160, 142, 119);
+    padding: 20px;
+    width: 885px;
+}
+#menu li {
+    display: inline;
+    margin: 15px;
+    
+}
+a {
+    text-decoration: none;
+}
+#sobre {
+    background-color: rgb(247, 247, 202);
+    float: left;
+    width: 900px;
+    margin: 5px;
+    padding: 10px;
+}
+#sobre h2{
+    color: rgb(117, 114, 109);
+}
+footer#rodape {
+    text-align: center;
+    margin-top: auto;
+    width: 900px;
+    color: rgb(24, 23, 23);
+}
+.image {
+    border: 10px solid rgb(183, 187, 177);
+   
+}
